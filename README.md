@@ -17,4 +17,4 @@ This project demonstrates an end-to-end CI/CD pipeline using:
 - GitHub
 
 ## Author
-Nagaraju
+KN RAJU 
