@@ -1,4 +1,4 @@
-# Azure DevOps CI/CD Project 🚀
+# Azure DevOps CI/CD Project 
 
 This project demonstrates an end-to-end CI/CD pipeline using:
 
